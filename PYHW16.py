@@ -12,6 +12,8 @@ Created on Wed Sep 30 16:32:52 2020
 @author: ofori
 """
 
+"""Work In Progess"""
+
 #numpy package to calculate log
 import numpy as np
 
